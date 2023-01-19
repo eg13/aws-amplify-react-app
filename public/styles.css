@@ -120,3 +120,15 @@ form.create-note button {
   font-family: "McLaren", cursive;
   font-weight: 200;
 }
+
+.amplify-heading--2 {
+  background-color: #83c4d8ad;
+  margin: auto -16px;
+  padding: 6px 12px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+.amplify-heading--2 {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
