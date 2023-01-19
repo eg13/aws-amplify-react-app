@@ -29,18 +29,6 @@ header h1 {
   font-weight: 200;
 }
 
-Heading {
-  background-color: #f5ba13;
-  margin: auto -16px;
-  padding: 16px 32px;
-  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
-}
-
-Heading h1 {
-  color: #fff;
-  font-family: "McLaren", cursive;
-  font-weight: 200;
-}
 
 footer {
   position: absolute;
@@ -119,3 +107,16 @@ form.create-note button {
   outline: none;
 }
 
+
+.amplify-heading--1 {
+  background-color: #f5ba13;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+.amplify-heading--1 {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
