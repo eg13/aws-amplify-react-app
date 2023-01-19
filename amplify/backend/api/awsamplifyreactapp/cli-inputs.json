@@ -4,7 +4,10 @@
     "apiName": "awsamplifyreactapp",
     "serviceName": "AppSync",
     "defaultAuthType": {
-      "mode": "AWS_IAM"
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2024-01-19T07:34:22.440Z",
+      "keyDescription": "Default"
     },
     "conflictResolution": {},
     "additionalAuthTypes": []
